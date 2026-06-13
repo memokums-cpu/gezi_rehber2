@@ -4,7 +4,7 @@ import requests
 # --- SAYFA AYARLARI ---
 st.set_page_config(page_title="Gezi Rehberi | Travel Guide", page_icon="🌍", layout="wide")
 
-STRAPI_URL = "http://127.0.0.1:1337"
+STRAPI_URL = "https://gezi-rehberne-d.onrender.com"
 
 # --- YARDIMCI FONKSİYONLAR ---
 
